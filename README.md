@@ -29,7 +29,7 @@ Ensure you have the following installed:
    - cd passenger_chatbot/chatbot_backend/chatbot_frontend
 
 4. Install dependencies:
-    npm install
+    - npm install
 
 ### Running the Application
     npx webpack serve
