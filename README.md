@@ -40,4 +40,3 @@ Ensure you have the following installed:
 
 #### Acknowledgements
     Thanks to the Webpack and React communities for their support and documentation.
-# passengerassitance
