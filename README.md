@@ -26,9 +26,9 @@ Ensure you have the following installed:
    git clone https://github.com/christymugs/passenger_chatbot.git
 
 2. Navigate to the chatbot_frontend directory:
-    cd passenger_chatbot/chatbot_backend/chatbot_frontend
+   - cd passenger_chatbot/chatbot_backend/chatbot_frontend
 
-3. Install dependencies:
+4. Install dependencies:
     npm install
 
 ### Running the Application
